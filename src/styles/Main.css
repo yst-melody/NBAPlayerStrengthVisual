@@ -1,0 +1,26 @@
+.main{
+    width: 750px; 
+    margin: auto;
+}
+/*.player{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    border: 3px solid #ccc;
+    box-shadow: 5px 10px 10px #888;
+    border-radius: 10px;
+    overflow: hidden;
+}*/
+/*.main {
+    width: 750px;
+    margin: auto;
+}*/
+
+.player {
+    display: flex;
+    margin-top: 70px;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #888; 
+}
